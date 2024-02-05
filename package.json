@@ -1,0 +1,25 @@
+{
+  "name": "olga-team-profile-generator",
+  "version": "1.0.0",
+  "description": "team profile generator",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "elismountain"
+  },
+  "author": "Olga A",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.14"
+  }
+}
