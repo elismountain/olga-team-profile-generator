@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "team profile generator",
   "main": "index.js",
-  "type": "module",
+  "type": "commonjs",
   "directories": {
     "lib": "lib"
   },
@@ -20,6 +20,7 @@
     "jest": "^29.7.0"
   },
   "dependencies": {
-    "inquirer": "^9.2.14"
+    "chalk": "^5.3.0",
+    "inquirer": "^6.2.1"
   }
 }
