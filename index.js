@@ -26,7 +26,7 @@ const createManager = () => {
     inquirer.prompt([
         {
             type: 'input',
-            name: 'name',
+            name: 'managerName',
             message: "Who is the manager on this team?",
             validate: managerName => {
                 if (managerName) {

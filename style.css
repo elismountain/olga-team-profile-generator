@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(163, 158, 159);
+}
+
+.team-heading {
+    background-color: #f068ac; /* pink */
+    color: white;
+}
+
+.employee-card {
+    margin: 10px;
+    width: 300px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+    background-color: #fff; /* White background */
+    border: 2px solid #f0dce6; /* Pink border */
+    border-radius: 10px; /* Rounded corners */
+}
+
+.employee-card .card-header {
+    background-color: #ff69b4; /* Pink */
+    color: white;
+    text-align: center;
+    border-top-left-radius: 10px; /* Rounded corners for top */
+    border-top-right-radius: 10px; /* Rounded corners for top */
+}
+
+.employee-card .card-body {
+    text-align: center;
+}
+
+.employee-card .list-group-item {
+    border: none;
+}
+
+.employee-card a {
+    color: #ff69b4; /* Pink */
+}
+
+.employee-card a:hover {
+    text-decoration: none;
+    color: #dc4e9d; /* Darker pink on hover */
+}
