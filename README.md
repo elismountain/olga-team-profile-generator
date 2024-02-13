@@ -29,11 +29,15 @@
 
   ## Test
   some test required
+  Please, see the test screen shot - ![Alt text](<src/screen3.png>)
+  Please, see the node.js screen shot - ![Alt text](<src/screen2.png>)
+
 
   ## Build with
 
   This project was build with: 
    Java Script, HTML, CSS, Node, Git
+   Please, see the app screen shot - ![Alt text](<src/screen.png>)
 
   ## Contributing
   EdX
